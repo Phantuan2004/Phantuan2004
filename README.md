@@ -1,8 +1,8 @@
 <!-- HERO -->
 
-<h1 align="center">🚀 Tuan | Software Engineer</h1>
+<h1 align="center">🚀 Tuan | Backend Developer • Exploring AI </h1>
 <p align="center">
-  Backend Developer • Web Systems • Exploring AI
+  <img src="https://readme-typing-svg.demolab.com?lines=Backend+Developer;Building+Web+Apps;Exploring+AI&center=true&width=500&height=50">
 </p>
 
 <p align="center">
@@ -70,5 +70,13 @@
 ---
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+<p align="center">
   ⚡ Less talk, more code
 </p>
+
+---
